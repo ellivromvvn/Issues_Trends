@@ -1,0 +1,25 @@
+---
+output:
+  word_document:
+    reference_docx: Research_CIA_my_style.docx
+bibliography: StatEd.bib
+csl: apa.csl
+---
+# Introduction
+
+We encounter and deal with statistics every now and then. Whether we are watching TV or reading the newspaper, we are confronted with statistical information in topics such as politics, economics, education, food, medicine, science and technology, sports, movies, public opinion, and social behavior. Statistical information is also common in our jobs, when we browse the internet and when we make choices and decisions. According to @franklin07, "statistical literacy is required for daily personal choices." For example, when we decide which detergent to use for washing our clothes, we ask  our colleagues what they use and then we decide on which detergent to use. Usually we choose the most used detergent. Otherwise, if we don't do these we might end up using different detergents and not being satisfied with results until we finally use an effective one.
+
+On the other hand, different government agencies have various collections of data gathered from the different operations they perform. Board exam results, monthly number of dengue cases, the volume of traffic in a highway during rush hours, hourly precipitation in millimeters, monthly income of households and national examination scores of elementary schools are few to mention and these data are available to the public. These data are very essential to the progress of ones nation. One can learn and understand these data using various statistical methods to aide government or individual decision making in addressing problems through research.
+
+Statistics has definitely defined progress in science and technology. According to @franklin07, "statistics plays a prominent role in scientific progress." He goes on to say that investing in statistical literacy
+
+Statistical literacy is required for daily personal choices [@franklin07].
+Statistics plays a prominent role in scientific progress [@franklin07].
+An investment in statistical literacy is an investment in our nation’s economic future, as well as in the well-being of individuals [@franklin07].
+According to @steen01 as cited in @franklin07, statistical literacy “empowers people by giving them tools to think for themselves, to ask intelligent questions of experts, and to confront authority confi dently. These are skills required to survive in the modern world.”
+
+# Presentation of Cases
+
+# Summary and Conclusion
+
+# References

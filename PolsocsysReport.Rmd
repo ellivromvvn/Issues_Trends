@@ -1,0 +1,15 @@
+---
+title: "Political and Socio-Economic Systems"
+output: slidy_presentation
+---
+# Issue 1: Politicizing education
+
+"Education should be above politics."
+
+Depoliticize education
+
+- Policy formulation
+- Budgeting
+- Recruitment of teachers and education officials
+- Various educational programs and processes
+
