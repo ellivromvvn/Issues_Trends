@@ -1,0 +1,20 @@
+---
+title: "Untitled"
+author: Orville D. Hombrebueno
+bibliography: StatEd.bib
+csl: apa.csl
+output:
+  word_document:
+    reference_docx: StatEdRef.docx
+---
+# Introduction
+
+# Presentation of Cases
+
+@reston11
+
+@watson11 @franklin07 @GCR16
+
+# Summary and Conclusion
+
+# References
