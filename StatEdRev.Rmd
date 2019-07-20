@@ -11,6 +11,9 @@ output:
 
 # Presentation of Cases
 
+
+The study of @reston10 entitled
+
 @reston11
 
 In discussing statistical literacy, it is noteworthy to discuss the study of @watson11 entitled, *Foundations for Improving Statistical Literacy*. In her quest to forward and improve statistical literacy, she pointed out that variation which is the very essence of doing statistics is not given priority in the teaching of statistics. She argued that building the foundation of statistical literacy need not to be accompanied by complex calculations and theoretical assumptions but by understanding that probability associated to sampling and variation is included in the process of doing statistical investigation. Thus, she suggested two models that are critical in developing statistical understanding. The first model shows the relationship of five components in answering a statistical question considering variation in each component; data collection, data representation, data reduction, chance, inference. Figure 1 shows this model. The second model is for planning and implementation of programs that would lead to the development of statistical literacy. It is a three level model for statistical literacy; terminology, context, critical thinking. The first tier focuses on understanding and familiarization of statistical terminologies used in statistical reasoning and decision-making. The second focuses on the applications to societal concerns of this statistical language. The third focuses on critical thinking that enables people to challenge vague claims and statements. According to her, this setting does not necessarily mean that one is a prerequisite of the next but each one complements each other. 
