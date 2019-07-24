@@ -61,8 +61,11 @@ developing concepts through the second model with regards to the first model; en
 
 Moreover, having discussed previous studies on gauging statistical literacy which concluded that most students work consistently in context and few attain critical thinking, @watson11 concluded that statistical literacy is very important in the curriculum. She added that the need for context to provide learning experiences for statistical literacy establishes a connection with and its importance to other areas in the curriculum. Thus, statistical literacy should be included in the cross-curriculum part of the overall curriculum and should be explicitly stated [@watson11]. She finally suggests that critical thinking statistical literacy can be a tool to achieve literacy and numeracy across the curriculum. 
 
+@jala10
 
-@franklin07 @GCR16
+@reston14
+
+@reston13
 
 # Summary and Conclusion
 
